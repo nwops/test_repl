@@ -1,0 +1,14 @@
+{
+  "name": "nwops-test_repl",
+  "version": "0.1.0",
+  "author": "Corey Osman",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 4.11.0"}
+  ],
+  "data_provider": null
+}
